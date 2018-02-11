@@ -1,0 +1,41 @@
+G:\BOT\BiranchiBOT\BiranchiBOT\bin\Bot Application.dll.config
+G:\BOT\BiranchiBOT\BiranchiBOT\bin\Bot Application.dll
+G:\BOT\BiranchiBOT\BiranchiBOT\bin\Bot Application.pdb
+G:\BOT\BiranchiBOT\BiranchiBOT\bin\Autofac.dll
+G:\BOT\BiranchiBOT\BiranchiBOT\bin\Chronic.dll
+G:\BOT\BiranchiBOT\BiranchiBOT\bin\Microsoft.Bot.Builder.Autofac.dll
+G:\BOT\BiranchiBOT\BiranchiBOT\bin\Microsoft.Bot.Builder.dll
+G:\BOT\BiranchiBOT\BiranchiBOT\bin\Microsoft.Bot.Connector.dll
+G:\BOT\BiranchiBOT\BiranchiBOT\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+G:\BOT\BiranchiBOT\BiranchiBOT\bin\Microsoft.Rest.ClientRuntime.dll
+G:\BOT\BiranchiBOT\BiranchiBOT\bin\Microsoft.WindowsAzure.Configuration.dll
+G:\BOT\BiranchiBOT\BiranchiBOT\bin\Newtonsoft.Json.dll
+G:\BOT\BiranchiBOT\BiranchiBOT\bin\System.IdentityModel.Tokens.Jwt.dll
+G:\BOT\BiranchiBOT\BiranchiBOT\bin\System.Net.Http.Formatting.dll
+G:\BOT\BiranchiBOT\BiranchiBOT\bin\System.Web.Http.dll
+G:\BOT\BiranchiBOT\BiranchiBOT\bin\System.Web.Http.WebHost.dll
+G:\BOT\BiranchiBOT\BiranchiBOT\bin\Autofac.xml
+G:\BOT\BiranchiBOT\BiranchiBOT\bin\Microsoft.Bot.Builder.xml
+G:\BOT\BiranchiBOT\BiranchiBOT\bin\Microsoft.Bot.Builder.Autofac.xml
+G:\BOT\BiranchiBOT\BiranchiBOT\bin\Microsoft.Bot.Connector.xml
+G:\BOT\BiranchiBOT\BiranchiBOT\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+G:\BOT\BiranchiBOT\BiranchiBOT\bin\Microsoft.WindowsAzure.Configuration.xml
+G:\BOT\BiranchiBOT\BiranchiBOT\bin\Newtonsoft.Json.xml
+G:\BOT\BiranchiBOT\BiranchiBOT\bin\System.IdentityModel.Tokens.Jwt.xml
+G:\BOT\BiranchiBOT\BiranchiBOT\bin\System.Net.Http.Formatting.xml
+G:\BOT\BiranchiBOT\BiranchiBOT\bin\System.Web.Http.xml
+G:\BOT\BiranchiBOT\BiranchiBOT\bin\System.Web.Http.WebHost.xml
+G:\BOT\BiranchiBOT\BiranchiBOT\bin\ar\Microsoft.Bot.Builder.resources.dll
+G:\BOT\BiranchiBOT\BiranchiBOT\bin\cs\Microsoft.Bot.Builder.resources.dll
+G:\BOT\BiranchiBOT\BiranchiBOT\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+G:\BOT\BiranchiBOT\BiranchiBOT\bin\en\Microsoft.Bot.Builder.resources.dll
+G:\BOT\BiranchiBOT\BiranchiBOT\bin\es\Microsoft.Bot.Builder.resources.dll
+G:\BOT\BiranchiBOT\BiranchiBOT\bin\fa\Microsoft.Bot.Builder.resources.dll
+G:\BOT\BiranchiBOT\BiranchiBOT\bin\fr\Microsoft.Bot.Builder.resources.dll
+G:\BOT\BiranchiBOT\BiranchiBOT\bin\ja\Microsoft.Bot.Builder.resources.dll
+G:\BOT\BiranchiBOT\BiranchiBOT\bin\ru\Microsoft.Bot.Builder.resources.dll
+G:\BOT\BiranchiBOT\BiranchiBOT\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+G:\BOT\BiranchiBOT\BiranchiBOT\obj\Debug\BiranchiBOT.csprojResolveAssemblyReference.cache
+G:\BOT\BiranchiBOT\BiranchiBOT\obj\Debug\BiranchiBOT.csproj.CoreCompileInputs.cache
+G:\BOT\BiranchiBOT\BiranchiBOT\obj\Debug\Bot Application.dll
+G:\BOT\BiranchiBOT\BiranchiBOT\obj\Debug\Bot Application.pdb
