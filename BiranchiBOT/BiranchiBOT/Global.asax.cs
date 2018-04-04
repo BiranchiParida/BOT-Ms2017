@@ -15,3 +15,17 @@ namespace BiranchiBOT
         }
     }
 }
+ var user=["sam","biranchi","Berline"];
+function adduser(Usename,callback){
+setTimeout(function(){
+user.push(Usename); console.log(Usename);callback();
+},200);
+}
+
+function Getuser(Usename){
+setTimeout(function(){
+console.log(user);
+},100);
+}
+undefined
+adduser('jacke',Getuser);
